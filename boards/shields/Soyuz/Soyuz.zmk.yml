@@ -2,7 +2,7 @@ file_format: "1"
 id: soyuz
 name: Soyuz
 type: shield
-url: https://github.com/
+url: https://github.com/ai03-2725/Soyuz
 requires: [pro_micro]
 features:
   - keys
