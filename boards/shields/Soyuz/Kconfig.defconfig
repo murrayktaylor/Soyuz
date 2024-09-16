@@ -1,1 +1,6 @@
+if SHIELD_SOYUZ
 
+config ZMK_KEYBOARD_NAME
+    default "Soyuz"
+
+endif
